@@ -1,2 +1,0 @@
-# bingbong
-Python game Bing
